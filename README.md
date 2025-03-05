@@ -1,4 +1,3 @@
-original data from: <https://zenodo.org/records/11204020>
 
 The ARG Database is a huge collection of labeled and unlabeled graphs realized by the MIVIA Group.
 
@@ -10,4 +9,6 @@ The dataset was published in
 
 De Santo, M., Foggia, P., Sansone, C., & Vento, M. (2003). A large database of graphs and its use for benchmarking graph isomorphism algorithms. Pattern Recognition Letters, 24(8), 1067-1079. <https://doi.org/10.1016/S0167-8655(02)00253-2>
 
-The data is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode)
+The original data was downloaded from <https://zenodo.org/records/11204020>
+
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/) The data is licensed under the Creative Commons Attribution 4.0
